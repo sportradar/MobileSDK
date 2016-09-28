@@ -15,7 +15,3 @@ pod 'SRSDK'
 ```
 
 then run `pod install` in project directory.
-
-### Framework
-
-Simply include [SRSDK.framework](ios/SRSDK.framework) to your project. Make sure `-ObjC` flag is set in **Other Linker Flags**.
