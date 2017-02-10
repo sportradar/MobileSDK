@@ -4,8 +4,8 @@ Pod::Spec.new do |s|
   s.version = '2.0.4'
   s.summary = 'SportRadar SDK.'
   s.license = {'type'=>'Sportradar', 'file'=>'SRSDK-2.0.4/LICENSE.txt'}
-  s.authors = {'Mobile Development Team'=>'mobile-dev@klika.si'}
-  s.homepage = 'https://mobileapi.sportradar.com'
+  s.authors = {'Mobile Development Team'=>'mobile-dev@sportradar.com'}
+  s.homepage = 'https://mdp.sportradar.com'
   s.requires_arc = true
   s.framework = 'SystemConfiguration','MobileCoreServices'
   s.source = { :http => 'https://mdp.sportradar.com/builds/apple/SRSDK-iOS-2.0.4.zip'}
