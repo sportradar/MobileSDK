@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://mdp.sportradar.com'
   s.requires_arc = true
   s.framework = 'SystemConfiguration','MobileCoreServices'
-  s.source = { :http => 'https://mdp-prestaging.sportradar.si/downloads/ios/SRSDK-iOS-3.0.zip'}
+  s.source = { :http => 'https://mdp.sportradar.com/downloads/ios/SRSDK-iOS-3.0.zip'}
 
   s.platform = :ios, '11.0'
   s.libraries = 'z'
