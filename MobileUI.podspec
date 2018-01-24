@@ -13,6 +13,6 @@ Pod::Spec.new do |s|
   s.platform = :ios, '10.0'
   s.libraries = 'z'
   s.vendored_frameworks  = 'MobileUI-3.0/MobileUI.framework'
-  s.dependency 'SRSDK', '~> 3.0.2'
+  s.dependency 'SRSDK', '~> 3.1'
 end
 
