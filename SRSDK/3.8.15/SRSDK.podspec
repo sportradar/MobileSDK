@@ -8,7 +8,7 @@ s.authors = {'Mobile Development Team'=>'mobile-dev@sportradar.com'}
 s.homepage = 'https://mdp.sportradar.com'
 s.requires_arc = true
 s.framework = 'SystemConfiguration','MobileCoreServices'
-s.source = { :http => 'https://artifacts.mdp.sportradar.com/apple/mobile-sdk-swift/1eeb8ec6/release/SRSDK-iOS-3.8.15.zip'}
+s.source = { :http => 'https://artifacts.mdp.sportradar.com/apple/mobile-sdk-swift/84bcfb14/release/SRSDK-iOS-3.8.15.zip'}
 
 s.platform = :ios, '10.0'
 s.libraries = 'z'
