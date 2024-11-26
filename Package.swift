@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "WidgetSDK",
-            url: "https://artifacts.mdp.sportradar.com/apple/Mobile-UI-iOS/1e048d9b/release/WidgetSDK-iOS-4.0.zip",
-            checksum: "1b440c8d16c347e593064904985f097adb1e290c76adef64c95653a680a56958"
+            url: "https://artifacts.mdp.sportradar.com/apple/Mobile-UI-iOS/0e047446/release/WidgetSDK-iOS-4.0.zip",
+            checksum: "a4a74abd70f38ace022bcc14ec7ffbb13aa9d27c5a018448051ac9ec6937908b"
         )
     ]
 )
